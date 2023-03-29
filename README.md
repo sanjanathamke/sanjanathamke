@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![MasterHead](kk.png)
 <h1 align="center">Hello , I am Sanjana Thamke💻</h1> 
 <h3 align="center"> DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Kubernetes | Technical Blogger |</h3>
-<img align="right" alt="Coding" width="400" src="DEVOPS.gif" >
 
 
 
