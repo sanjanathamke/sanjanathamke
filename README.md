@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently **Learning Devops Tools**
 - 📝 I publish articles on **Various DevOps Concepts**
-- 👯 I’m looking to collaborate on **DevOPs community**
+- 👯 I’m looking to collaborate on **DevOps community**
 - ⚡ My belief **"Every action you take is a vote for the person you wish to become."**
 - 📫 How to reach me **https://www.linkedin.com/in/sanjana-thamke-68827417b**
 
