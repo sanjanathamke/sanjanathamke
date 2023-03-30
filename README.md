@@ -44,3 +44,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sanjana-thamke-68827417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjana-thamke-68827417b" height="30" width="40" /></a>
 <a href="https://medium.com/@sanjuthamke9699" target="blank"><img align="center" src="download.png" alt="https://medium.com/@sanjuthamke9699" height="30" width="40" /></a>
 </p>
+
+#### Thanks for visiting :heart:
+
+
+**Always on the hunt for new and exciting opportunities to learn & grow.**
+
